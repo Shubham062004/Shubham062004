@@ -7,7 +7,7 @@
 
 <hr>
   
-## - 🎓 A first year undergraduate student pursuing B.Tech(CSE) work integrated association with Kalvium from Lovely Professional University
+## - 🎓 A Second year undergraduate student pursuing B.Tech(CSE) work integrated association with Kalvium from Lovely Professional University
 ## - 📌 Learner | Coder | MERN Developer 
 <br> <br>
 
